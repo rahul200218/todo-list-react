@@ -1,6 +1,6 @@
 # Welcome to my Todo List App!
 
-![Todo List App](https://github.com/yourusername/yourrepository/blob/main/todo_app_screenshot.png)
+![Todo List App]([https://github.com/yourusername/yourrepository/blob/main/todo_app_screenshot.png](https://cdn.sanity.io/images/599r6htc/localized/0d1e3ef92ab95ecd0aece2620916c9bf6e47df80-1108x1108.png?w=514&q=75&fit=max&auto=format))
 
 ## Overview
 
