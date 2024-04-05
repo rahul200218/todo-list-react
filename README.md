@@ -22,8 +22,8 @@ Check out the live demo of the Todo List App [here](https://1827-todo-list.netli
 
 To get started with the Todo List App locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/yourusername/yourrepository.git`
-2. Navigate to the project directory: `cd yourrepository`
+1. Clone this repository: ` git clone https://github.com/rahul200218/todo-list-react.git`
+2. Navigate to the project directory: `cd todolist`
 3. Install dependencies: `npm install`
 4. Run the app: `npm start`
 5. Open your browser and visit `http://localhost:3000` to view the app.
@@ -31,9 +31,9 @@ To get started with the Todo List App locally, follow these steps:
 ## Usage
 
 - **Adding a Task**: Click on the "+" button to add a new task. Enter your task in the input field and press Enter to add it to the list.
-- **Deleting a Task**: Click on the trash icon next to a task to delete it from the list.
-- **Updating a Task**: Double click on a task to edit its content. Press Enter to save the changes.
-- **Highlighting a Task**: Click on the checkbox next to a task to highlight it.
+- **Deleting a Task**: Click on the delete button to delete it from the list.
+- **Updating a Task**: Click on te edit to edit its content. Press Enter to save the changes.
+- **Highlighting a Task**: Click on the checkbox next to edi button to highlight it.
 
 ## Contributing
 
@@ -45,6 +45,6 @@ If you have any feedback, suggestions, or questions about the Todo List App, ple
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code as per the terms of the license.
+
 
 Thank you for using the Todo List App! Happy task management! 🚀
